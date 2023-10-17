@@ -1,3 +1,10 @@
+<?php
+include "db-connect.php";
+$query="SELECT * FROM quanlynhahang ORDER BY ID";
+$data=mysqli_query($conn, $query);
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
