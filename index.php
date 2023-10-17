@@ -12,7 +12,7 @@ $data=mysqli_query($conn, $query);
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Restaurantly ditt meem</title>
+  <title>Restaurantly</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
